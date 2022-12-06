@@ -1,2 +1,2 @@
 # Covid-Grid-Simulation
-A 100 x 100 grid simulation that lets 4 users roam free within it (2 of the users are completely healthy and the 2 others are infected by Covid-19). This simulation gives the user the ability to check on whether healthy users are in danger of getting infected.
+A 100 x 100 grid simulation that lets 4 users roam free within it (2 of the users are completely healthy and the 2 others are infected by Covid-19). This simulation gives the user the ability to check on whether healthy users are in danger of getting infected. For the implementation of this simulation I had to construct my own dynamic data structures, so that it runs with maximum efficiency. Built with Visual Studio Code and C++.
